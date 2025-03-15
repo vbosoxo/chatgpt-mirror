@@ -1,17 +1,17 @@
-# ChatGPT 镜像网站推荐：国内免费使用指南，支持 GPT-4 和 4o 【25年3月14日持续更新】
+# ChatGPT 镜像网站推荐：国内免费使用指南，支持 GPT-4 和 4o 【25年3月16日持续更新】
 
 > 作者: vbosoxo
 > 
-> 更新日期: 2025/03/14
+> 更新日期: 2025/03/16
 
 想在国内使用ChatGPT吗？我们为您整理了最新的国内可用 ChatGPT 镜像网站，方便您无需翻墙即可使用。
 
-这些镜像网站支持ChatGPT-4.0，您可以无限制地使用GPT-4o、o1-preview及其中文版功能。
+这些镜像网站支持ChatGPT-4.0，您可以无限制地使用GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3及其中文版功能。
 
 ## 推荐的ChatGPT镜像网站：
 
 - **松鼠AI ([songshugpt.com](http://songshugpt.com))**
-  - 运营接近两年，支持GPT-4、4o、4o mini及o1，提供AI绘画功能。用户可以通过简单扫码快速使用。
+  - 运营接近两年，支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，提供AI绘画功能。用户可以通过简单扫码快速使用。
 
 - **GPTDOG ([gptdog.online](http://gptdog.online))**
   - 已运营近两年，支持GPT-4、4o及o1，提供AI文件、AI PPT、AI助手、AI插件功能和思维导图，非常适合多功能需求的用户。
