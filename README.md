@@ -10,7 +10,7 @@
 
 ## 推荐的ChatGPT镜像网站：
 
-- **松鼠AI ([songshugpt.com](http://songshugpt.com))**
+- **松鼠AI ([www.songshugpt.com](http://www.songshugpt.com))**
   - 运营接近两年，支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3，提供AI绘画功能。用户可以通过简单扫码快速使用。
 
 - **GPTDOG ([gptdog.online](http://gptdog.online))**
@@ -40,7 +40,7 @@ ChatGPT镜像网站提供了一种便捷的方式，让国内用户无需翻墙�
 
 ## 国内免费使用教程
 
-1. **选择镜像站**：从推荐列表中选择一个站点，如松鼠AI ([songshugpt.com](http://songshugpt.com))或GPTDOG ([gptdog.online](http://gptdog.online))。
+1. **选择镜像站**：从推荐列表中选择一个站点，如松鼠AI ([www.songshugpt.com](http://www.songshugpt.com))或GPTDOG ([gptdog.online](http://gptdog.online))。
 2. **注册或使用**：无需注册，按照提示用微信扫码即可。
 3. **选择ChatGPT版本**：根据需求选择GPT-4、GPT-3.5或GPT-4o、o1-preview模型即可。
 4. **输入问题**：在聊天界面输入问题或任务，即可收到智能回答。
@@ -57,7 +57,7 @@ ChatGPT镜像网站提供了一种便捷的方式，让国内用户无需翻墙�
   - 部分站点提供免费使用额度，适合日常使用；一些高级功能可能需要付费，具体情况请参考站点说明。
 
 - **哪些站点适合新手？**
-  - 松鼠AI ([songshugpt.com](http://songshugpt.com)) ：非常适合新手。
+  - 松鼠AI ([www.songshugpt.com](http://www.songshugpt.com)) ：非常适合新手。
   - GPTDOG ([gptdog.online](http://gptdog.online)) ：功能多样，适合有更高需求的用户。
 
 ## 联系与更新
